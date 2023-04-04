@@ -1,0 +1,1 @@
+print('You will be' +str(int(input("myAge"))+1)+'in a year.')
